@@ -53,8 +53,8 @@ This project analyzes historical stock price data to identify trends, volatility
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/bhavyakun/yahoo-stock.git
-cd yahoo-stock
+git clone https://github.com/Bhavyakun/Yahoo-Stock.git
+cd Yahoo-Stock
 ```
 
 ### 2️⃣ Install Dependencies
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-Open `yahoo-stock.ipynb` and execute the cells.
+Open `YahooStock.ipynb` and execute the cells.
 
 ## 📌 Future Enhancements
 ✅ Integrate **macroeconomic indicators** (inflation, interest rates) for better accuracy.  
